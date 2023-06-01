@@ -135,4 +135,4 @@ yarn gulp
 </html>
 ```
 
-![alt text](./example-1.png "Example 2")
+![alt text](./example-2.png "Example 2")
