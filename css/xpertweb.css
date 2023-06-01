@@ -17,6 +17,10 @@
   max-width: 960px;
 }
 
+.container-mini {
+  max-width: 200px;
+}
+
 .row {
   display: block;
 }
