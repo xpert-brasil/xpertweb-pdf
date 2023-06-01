@@ -1,2 +1,7 @@
-# xpertweb-pdf
-XPertWeb PDF
+# XPertWeb PDF
+
+## Usage
+
+```
+yarn gulp
+```
