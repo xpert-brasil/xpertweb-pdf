@@ -1,10 +1,10 @@
 {
   "title": "XPertWeb PDF",
   "name": "xpertweb-pdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Eduardo Malherbi Martins",
-  "homepage":"https://www.xpert.com.br",
+  "homepage": "https://www.xpert.com.br",
   "devDependencies": {
     "browser-sync": "2.26.7",
     "del": "4.1.1",
