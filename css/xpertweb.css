@@ -1,8 +1,13 @@
 /*!
  * XPertWeb PDF v1.0.0 (https://www.xpert.com.br)
- * Copyright 2013-2024 Eduardo Malherbi Martins
+ * Copyright 2013-2025 Eduardo Malherbi Martins
  * Licensed under MIT
  */
+
+.page-break {
+  page-break-after: always;
+  break-after: page;
+}
 
 .container,
 .container-fluid {
@@ -565,10 +570,14 @@ table td {
   border-left: 1px solid #000000;
 }
 
+.bg-white {
+  background-color: #ffffff;
+}
+
 .bg-gray {
   background-color: #95999c;
 }
 
-.bg-white {
-  background-color: #fff;
+.bg-gray-light {
+  background-color: #f0f0f0;
 }
