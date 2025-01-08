@@ -22,6 +22,10 @@
   max-width: 960px;
 }
 
+.font-bold {
+  font-weight: bold;
+}
+
 .row {
   display: block;
 }
@@ -580,4 +584,20 @@ table td {
 
 .bg-gray-light {
   background-color: #f0f0f0;
+}
+
+.word-break-normal {
+  word-break: normal;
+}
+
+.word-break-all {
+  word-break: break-all;
+}
+
+.word-break-keep-all {
+  word-break: keep-all;
+}
+
+.word-break-word {
+  word-break: break-word;
 }
