@@ -21,3 +21,11 @@
 .border-s {
   border-left: 1px solid $black;
 }
+
+.border-top-none {
+  border-top: none !important;
+}
+
+.border-bottom-none {
+  border-bottom: none !important;
+}

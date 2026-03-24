@@ -11,3 +11,14 @@ table td {
 .table-sm {
   font-size: 10px;
 }
+
+.table-bordered {
+  width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.table-bordered th,
+.table-bordered td {
+  border: 1px solid black;
+}

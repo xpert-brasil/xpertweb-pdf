@@ -1,6 +1,6 @@
 /*!
  * XPertWeb PDF v1.0.1 (https://www.xpert.com.br)
- * Copyright 2013-2025 Eduardo Malherbi Martins
+ * Copyright 2013-2026 Eduardo Malherbi Martins
  * Licensed under MIT
  */
 
@@ -54,6 +54,20 @@ h6 {
 
 .font-bold {
   font-weight: bold;
+}
+
+.font-size-9 {
+  font-size: 9px;
+}
+
+.font-size-10 {
+  font-size: 10px;
+}
+
+.font-verdana {
+  font-family: Verdana;
+  font-style: normal;
+  font-variant: normal;
 }
 
 .row {
@@ -176,6 +190,17 @@ table td {
 
 .table-sm {
   font-size: 10px;
+}
+
+.table-bordered {
+  width: 100%;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.table-bordered th,
+.table-bordered td {
+  border: 1px solid black;
 }
 
 .text-start {
@@ -602,6 +627,14 @@ table td {
 
 .border-s {
   border-left: 1px solid #000000;
+}
+
+.border-top-none {
+  border-top: none !important;
+}
+
+.border-bottom-none {
+  border-bottom: none !important;
 }
 
 .bg-white {
