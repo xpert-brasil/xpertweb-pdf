@@ -64,10 +64,24 @@ h6 {
   font-size: 10px;
 }
 
+.font-size-10_5 {
+  font-size: 10.5px;
+}
+
 .font-verdana {
   font-family: Verdana;
   font-style: normal;
   font-variant: normal;
+}
+
+.font-arial {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-variant: normal;
+}
+
+.font-italic {
+  font-style: italic;
 }
 
 .row {
@@ -213,6 +227,16 @@ table td {
 
 .text-center {
   text-align: center !important;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 .p-0 {
@@ -647,6 +671,10 @@ table td {
 
 .bg-gray-light {
   background-color: #f0f0f0;
+}
+
+.bg-black {
+  background-color: #000000;
 }
 
 .word-break-normal {
